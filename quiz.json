@@ -1,0 +1,74 @@
+[{
+    "title":"why we use <br> in html",
+    "answer_1":"to make text bold",
+    "answer_2":"to make text uppercase",
+    "answer_3":"to make text italik",
+    "answer_4":"to make brak line",
+    "right_ansewr":"to make brak line"
+},{
+    "title":"why we use <img> in html",
+    "answer_1":"to add image",
+    "answer_2":"to make text uppercase",
+    "answer_3":"to make text italik",
+    "answer_4":"to make brak line",
+    "right_ansewr":"to add image"
+},
+{
+    "title":"why we use <a> in html",
+    "answer_1":"to add image",
+    "answer_2":"to add link",
+    "answer_3":"to add video",
+    "answer_4":"to make break line",
+    "right_ansewr":"to add link"
+},
+{"title":"why we use <audio> in html",
+"answer_1":"to add image",
+    "answer_2":"to add link",
+    "answer_3":"to add video",
+    "answer_4":"to add audio",
+    "right_ansewr":"to add audio"},
+{"title":"why we use <hr> in html",
+"answer_1":"to make line",
+"answer_2":"to make text uppercase",
+"answer_3":"to make text italik",
+"answer_4":"to make brak line",
+"right_ansewr":"to make line"},
+{
+    "title":"what does mean html",
+"answer_1":"hyber text markub language",
+    "answer_2":"hidden text  modulating language",
+    "answer_3":" hidden text markub language",
+    "answer_4":" hyber text markub link",
+    "right_ansewr":"hyber text markub language"},
+
+    {"title":"why we use <link> in html",
+"answer_1":"to make link",
+"answer_2":"to link file from out to page",
+"answer_3":"to make text italik",
+"answer_4":"to make brak line",
+"right_ansewr":"to link file from out to page"   
+},
+{"title":"why we use <title> in html",
+"answer_1":"to make title of the page",
+"answer_2":"to  make heading of page",
+"answer_3":"to paragraph title",
+"answer_4":"to make div title",
+"right_ansewr":"to make title of the page"},
+
+    {"title":"why we use <i> in html",
+"answer_1":"to make line",
+"answer_2":"to make text uppercase",
+"answer_3":"to make text italik",
+"answer_4":"to make brak line",
+"right_ansewr":"to make text italik"
+},
+{
+    "title":"why we use <mark> in html",
+"answer_1":"to make mark",
+"answer_2":"to mark specific text",
+"answer_3":"to make text italik",
+"answer_4":"to make brak line",
+"right_ansewr":"to mark specific text"
+}
+
+]
